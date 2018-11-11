@@ -1,0 +1,13 @@
+C:\Users\shado\source\repos\vbuckscam\vbuckscam\bin\Debug\vbuckscam.exe.config
+C:\Users\shado\source\repos\vbuckscam\vbuckscam\bin\Debug\vbuckscam.exe.manifest
+C:\Users\shado\source\repos\vbuckscam\vbuckscam\bin\Debug\vbuckscam.application
+C:\Users\shado\source\repos\vbuckscam\vbuckscam\bin\Debug\vbuckscam.exe
+C:\Users\shado\source\repos\vbuckscam\vbuckscam\bin\Debug\vbuckscam.pdb
+C:\Users\shado\source\repos\vbuckscam\vbuckscam\obj\Debug\vbuckscam.Form1.resources
+C:\Users\shado\source\repos\vbuckscam\vbuckscam\obj\Debug\vbuckscam.Properties.Resources.resources
+C:\Users\shado\source\repos\vbuckscam\vbuckscam\obj\Debug\vbucksgen.csproj.GenerateResource.cache
+C:\Users\shado\source\repos\vbuckscam\vbuckscam\obj\Debug\vbucksgen.csproj.CoreCompileInputs.cache
+C:\Users\shado\source\repos\vbuckscam\vbuckscam\obj\Debug\vbuckscam.exe.manifest
+C:\Users\shado\source\repos\vbuckscam\vbuckscam\obj\Debug\vbuckscam.application
+C:\Users\shado\source\repos\vbuckscam\vbuckscam\obj\Debug\vbuckscam.exe
+C:\Users\shado\source\repos\vbuckscam\vbuckscam\obj\Debug\vbuckscam.pdb
